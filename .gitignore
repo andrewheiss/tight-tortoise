@@ -17,6 +17,9 @@ _freeze/
 # Research stuff
 misc/*
 
+# Data stuff
+data/data-raw/*
+
 # Miscellaneous
 *.~lock.*
 .DS_Store
