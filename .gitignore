@@ -1,0 +1,24 @@
+# R stuff
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Targets stuff
+_targets
+_targets.yaml
+
+# Quarto stuff
+/.quarto/
+/.luarc.json
+_site/
+_freeze/
+
+# Research stuff
+misc/*
+
+# Miscellaneous
+*.~lock.*
+.DS_Store
+.dropbox
+Icon?
