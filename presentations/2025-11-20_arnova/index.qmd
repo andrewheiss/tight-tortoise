@@ -1,0 +1,17 @@
+---
+title: "ARNOVA 2025"
+date: 2025-11-20
+toc: true
+abstract: |
+  Annual conference of the Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA); Indianapolis, Indiana
+abstract-title: "Location"
+published-title: "Presented"
+image: first-slide.png
+page-layout: full
+---
+
+## Presentation
+
+<div class="ratio ratio-16x9">
+<iframe class="slide-deck" src="https://docs.google.com/presentation/d/10zk8meLdzfp-8aRDmWMMGPJA_ETdKP8qRozavlc55FU/embed?start=false&loop=false&delayms=3000" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
