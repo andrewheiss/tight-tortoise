@@ -1,0 +1,36 @@
+---
+title: "Civil Society Crackdowns and the Spatial Redistribution of Foreign Aid"
+author:
+- name: Andrew Heiss
+  affiliation: Georgia State University
+  url: https://www.andrewheiss.com/
+  email: aheiss@gsu.edu
+  orcid: 0000-0002-3948-3914
+- name: Suparna Chaudhry
+  affiliation: Lewis and Clark College
+  url: http://www.suparnachaudhry.com/
+  email: schaudhry@lclark.edu
+  orcid: 0000-0003-3506-7590
+format:
+  html:
+    code-tools: false
+    toc: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# yaml_metadata <- rmarkdown::yaml_front_matter(here::here("manuscript", "manuscript.qmd"))
+# title <- yaml_metadata$title
+# subtitle <- yaml_metadata$subtitle
+# abstract <- yaml_metadata$abstract
+```
+
+## Abstract
+
+Anti-NGO laws have restricted civil society around the world and shape how official aid agencies allocate foreign aid. While existing research shows these restrictions reduce bilateral aid flows, little is known about their geographic effects. Using geocoded aid data for hundreds of thousands of projects from 1973-2020, combined with original civil society restriction data across 148 countries, we explore whether civil society restrictions lead to aid spillovers to neighboring countries and increased geographic dispersion of projects within restricted countries. Our findings reveal underexplored spatial dynamics of aid allocation and contribute to literature on the consequences of civil society restrictions.
+
+## Code
+
+All the raw code and data for this paper is available in a [GitHub repository](https://github.com/andrewheiss/tight-tortoise).

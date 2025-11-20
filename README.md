@@ -1,7 +1,23 @@
-# Geocoded aid and NGO crackdown
+# Civil Society Crackdowns and the Spatial Redistribution of Foreign Aid
 
+
+- [Abstract](#abstract)
+- [🔒🐢: Note on “tight tortoise” project name](#lockturtle-note-on-tight-tortoise-project-name)
+- [Licenses](#licenses)
+- [Contributions and Code of Conduct](#contributions-and-code-of-conduct)
 
 <!-- README.md is generated from README.qmd. Please edit that file -->
+
+------------------------------------------------------------------------
+
+[Andrew Heiss](https://www.andrewheiss.com) • Georgia State University  
+[Suparna Chaudhry](http://www.suparnachaudhry.com/) • Lewis & Clark College
+
+------------------------------------------------------------------------
+
+## Abstract
+
+Anti-NGO laws have restricted civil society around the world and shape how official aid agencies allocate foreign aid. While existing research shows these restrictions reduce bilateral aid flows, little is known about their geographic effects. Using geocoded aid data for hundreds of thousands of projects from 1973-2020, combined with original civil society restriction data across 148 countries, we explore whether civil society restrictions lead to aid spillovers to neighboring countries and increased geographic dispersion of projects within restricted countries. Our findings reveal underexplored spatial dynamics of aid allocation and contribute to literature on the consequences of civil society restrictions.
 
 ## 🔒🐢: Note on “tight tortoise” project name
 
