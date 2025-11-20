@@ -19,9 +19,13 @@ misc/*
 
 # Data stuff
 data/data-raw/*
+data/data-processed/*
+data/*.duckdb
 
 # Miscellaneous
 *.~lock.*
 .DS_Store
 .dropbox
 Icon?
+
+**/*.quarto_ipynb
